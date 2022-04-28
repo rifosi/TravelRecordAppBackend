@@ -1,0 +1,2 @@
+User = "patati"
+Senha="tralala"
